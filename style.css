@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+
+}
+.dark-blue-bg{
+    background-color:#002648 ;
+}
+
+
+.section-img{
+    width: 450px;
+    height: 350px;
+}
+.skills-img{
+    margin: 0px 20px;
+
+    width: 300px;
+    height: 300px;
+}
+
+/* .horizontal-line {
+    border: 1px solid #FFB000;
+    width: 150px;
+  
+} */
+.container > a > img{   
+    height: 85px;
+}
+.navbackground{
+   background-color: #003864; 
+}
+
+.col-sm-12{
+    text-align: center;
+}
+
+.col-lg-6{
+    text-align: left;
+}
+/* .col-md-6{
+    text-align: center;
+} */
+#nav-toggle-button{
+    background-color:#cecccc;
+}
+/* hero-section-header */
+
+#header-section{
+    margin-top: 30px;
+   
+}
+#hero-text > h1{
+    color: #fff;
+    font-family: Poppins;
+    font-size: 3em;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: -0.5rem;
+}
+
+#hero-text > h2{
+    color: #FFB000;
+    font-family: Poppins;
+    font-size: 2em;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: -0.5rem;
+}
+#hero-btn > button{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background: #FFB000;
+    color: #002648;
+    /* font-family: Poppins; */
+    font-size: 2em;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal; 
+    margin-bottom: 0.5rem; 
+  
+}
+
+#hero-btn > button:hover{
+    color: #f0f3f5
+}
+
+#header-section-img{
+    width: 665px;
+    height: 443px;
+}
+/*section-about-me */
+#aboutme-text >h2{
+    color: #002648;
+    font-weight:500px;  
+}
+#aboutme-text >p{
+    color: #002648;
+    font-weight:500px;  
+}
+/* section-skills */
+#skills-text > h2{
+    color: #002648;
+    font-weight:500px;  
+}
+#skills-text > p{
+    color: #002648;
+    font-weight:500px;  
+}
+
+.skills-img{
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+    padding-bottom: 15px;
+}
+.skill-title{
+  color: #fff; 
+  margin-top: 20px; 
+}
+.skill-desc{
+    color: #fff;
+    margin-top: 2px;
+    padding-bottom: 5px;
+}
+
+/*experience-skills */
+#experience-title{
+    padding-top: 10px;
+}
+
+#exp-section{
+    margin-top: -5px;
+    color: #002648;
+    font-weight:500px;
+}
+
+
+.experience-info{
+    border-bottom: 1px solid #cecccc;
+    margin-top: 20px;
+}
+
+
+
+
+
+/* map */
+
+.mapouter{
+    position:relative;
+    text-align:right;
+    width:600px;
+    height:400px;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    width:600px;
+    height:400px;
+}
+.gmap_iframe {
+    width:400px!important;
+    height:300px!important;
+}
+
+
+
